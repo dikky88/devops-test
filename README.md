@@ -1,1 +1,1 @@
-docker run -p 3002:3000 my-app
+docker run -p 3001:3000 my-app
